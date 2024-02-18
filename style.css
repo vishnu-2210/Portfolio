@@ -810,7 +810,7 @@ video {
   transform-style: preserve-3d;
 }
 
-.card:hover .card:active .card:focus {
+.card:hover{
   transform: rotateY(180deg);
 }
 
